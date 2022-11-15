@@ -6,7 +6,5 @@ body{
   color: rgb(0, 134, 252);
 }
 h1{
- display: block;
-    margin-left: auto;
-    margin-right: auto
+text-align: center;
 }
